@@ -1,0 +1,1 @@
+Implementation of basic algorithms such as QuickSort and MergeSort in Java, created to introduce the concept of algorithms to CS Club students. Source code retrieved from https://howtodoinjava.com/java-algorithms-implementations/
